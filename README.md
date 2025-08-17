@@ -1,34 +1,28 @@
 # Welcome to AI Champions Hub 
 ## Course on Full Stack AI Agent using Google Cloud Services
 
-> **This course covers the full breath of Mastering AI Agents using Google Cloud Platform **
+<!-- markdownlint-disable MD033 -->
+This course covers the full breath of Mastering AI Agents using Google Cloud Platform
+This repository contains notebooks, code samples, sample apps, and other resources that demonstrate how to use, develop and manage generative AI workflows using 
+
 > Here are the List of Topics which Students can progress and will master
 > Note: Links to be Replaced
-> - [Week1 : AI Agents Foundation](gemini/getting-started/intro_gemini_2_5_pro.ipynb)
-> - 
-> - [Intro to Gemini 2.5 Pro](gemini/getting-started/intro_gemini_2_5_pro.ipynb)
-> - [Intro to Gemini 2.5 Flash](gemini/getting-started/intro_gemini_2_5_flash.ipynb)
+> - [Module 1 Foundations : AI Agents Foundation](gemini/getting-started/intro_gemini_2_5_pro.ipynb)
+> - [Module 2 RAG : RAG using Google Agentic Development Kit](gemini/getting-started/intro_gemini_2_5_pro.ipynb)
+> - [Module 3 Agents LG: Build Agentic AI Systems with LangGraph](gemini/getting-started/intro_gemini_2_5_pro.ipynb)
+> - [Module 4 Agents ADK: Build Agent Teams with Google ADK and LangChain](gemini/getting-started/intro_gemini_2_5_pro.ipynb)
+> - [Module 5 Agent Space: Build Multi-Agent Systems and Google Agent Space protocol](gemini/getting-started/intro_gemini_2_5_pro.ipynb)
+> - [Module 6 Capstone: Course End Project: Design, Build, and Release a Full Stack Agentic AI System](gemini/getting-started/intro_gemini_2_5_flash.ipynb)
 
-<!-- markdownlint-disable MD033 -->
-
-This repository contains notebooks, code samples, sample apps, and other resources that demonstrate how to use, develop and manage generative AI workflows using [Generative AI on Google Cloud](https://cloud.google.com/ai/generative-ai) with [Vertex AI](https://cloud.google.com/vertex-ai).
-
-
-
-
-# ==============
-> **[Gemini 2.5 Pro](https://cloud.google.com/vertex-ai/generative-ai/docs/models/gemini/2-5-pro) and [Gemini 2.5 Flash](https://cloud.google.com/vertex-ai/generative-ai/docs/models/gemini/2-5-flash) have been released!**
+### Few Key Links 
+> - [Generative AI on Google Cloud](https://cloud.google.com/ai/generative-ai)
+> - [Vertex AI](https://cloud.google.com/vertex-ai).
+> - [Gemini 2.5 Pro](https://cloud.google.com/vertex-ai/generative-ai/docs/models/gemini/2-5-pro) 
+> - [Gemini 2.5 Flash](https://cloud.google.com/vertex-ai/generative-ai/docs/models/gemini/2-5-flash)
 >
-> Here are the latest notebooks and demos using the new models:
->
-> - [Intro to Gemini 2.5 Pro](gemini/getting-started/intro_gemini_2_5_pro.ipynb)
-> - [Intro to Gemini 2.5 Flash](gemini/getting-started/intro_gemini_2_5_flash.ipynb)
-
-<!-- markdownlint-disable MD033 -->
-
-This repository contains notebooks, code samples, sample apps, and other resources that demonstrate how to use, develop and manage generative AI workflows using [Generative AI on Google Cloud](https://cloud.google.com/ai/generative-ai) with [Vertex AI](https://cloud.google.com/vertex-ai).
 
 ## Using this repository
+### NOTE: To add welcome video and course details.
 
 [![Applied AI Summit: The cloud toolkit for generative AI](https://img.youtube.com/vi/xT7WW2SKLfE/hqdefault.jpg)](https://www.youtube.com/watch?v=xT7WW2SKLfE)
 
